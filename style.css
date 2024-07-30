@@ -1,0 +1,19 @@
+ul{
+    text-align: center;
+    display: block;;
+    margin: auto;
+}
+ul li{
+    display: inline;
+    margin: 20px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+ul{
+    font-size: 250%;
+}
+body{
+    background-color:#31608f;
+}
